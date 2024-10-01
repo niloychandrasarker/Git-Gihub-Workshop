@@ -155,6 +155,7 @@ int main()
 {
     optimize();
     cout(hello,iam version 1);
-    
+    cout(hello,iam version 2);
+
     return 0;
 }
